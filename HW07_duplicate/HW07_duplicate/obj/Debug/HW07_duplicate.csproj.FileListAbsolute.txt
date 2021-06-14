@@ -1,0 +1,7 @@
+D:\C#\HW\HW07_duplicate\HW07_duplicate\bin\Debug\HW07_duplicate.exe.config
+D:\C#\HW\HW07_duplicate\HW07_duplicate\bin\Debug\HW07_duplicate.exe
+D:\C#\HW\HW07_duplicate\HW07_duplicate\bin\Debug\HW07_duplicate.pdb
+D:\C#\HW\HW07_duplicate\HW07_duplicate\obj\Debug\HW07_duplicate.csproj.AssemblyReference.cache
+D:\C#\HW\HW07_duplicate\HW07_duplicate\obj\Debug\HW07_duplicate.csproj.CoreCompileInputs.cache
+D:\C#\HW\HW07_duplicate\HW07_duplicate\obj\Debug\HW07_duplicate.exe
+D:\C#\HW\HW07_duplicate\HW07_duplicate\obj\Debug\HW07_duplicate.pdb

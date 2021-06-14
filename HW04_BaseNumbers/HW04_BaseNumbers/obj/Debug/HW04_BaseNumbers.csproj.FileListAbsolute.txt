@@ -1,0 +1,7 @@
+D:\C#\HW04\HW04_BaseNumbers\HW04_BaseNumbers\bin\Debug\HW04_BaseNumbers.exe.config
+D:\C#\HW04\HW04_BaseNumbers\HW04_BaseNumbers\bin\Debug\HW04_BaseNumbers.exe
+D:\C#\HW04\HW04_BaseNumbers\HW04_BaseNumbers\bin\Debug\HW04_BaseNumbers.pdb
+D:\C#\HW04\HW04_BaseNumbers\HW04_BaseNumbers\obj\Debug\HW04_BaseNumbers.csproj.AssemblyReference.cache
+D:\C#\HW04\HW04_BaseNumbers\HW04_BaseNumbers\obj\Debug\HW04_BaseNumbers.csproj.CoreCompileInputs.cache
+D:\C#\HW04\HW04_BaseNumbers\HW04_BaseNumbers\obj\Debug\HW04_BaseNumbers.exe
+D:\C#\HW04\HW04_BaseNumbers\HW04_BaseNumbers\obj\Debug\HW04_BaseNumbers.pdb

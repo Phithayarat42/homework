@@ -1,0 +1,7 @@
+D:\C#\HW\HW11_NumsConvert\HW11_NumsConvert\bin\Debug\HW11_NumsConvert.exe.config
+D:\C#\HW\HW11_NumsConvert\HW11_NumsConvert\bin\Debug\HW11_NumsConvert.exe
+D:\C#\HW\HW11_NumsConvert\HW11_NumsConvert\bin\Debug\HW11_NumsConvert.pdb
+D:\C#\HW\HW11_NumsConvert\HW11_NumsConvert\obj\Debug\HW11_NumsConvert.csproj.AssemblyReference.cache
+D:\C#\HW\HW11_NumsConvert\HW11_NumsConvert\obj\Debug\HW11_NumsConvert.csproj.CoreCompileInputs.cache
+D:\C#\HW\HW11_NumsConvert\HW11_NumsConvert\obj\Debug\HW11_NumsConvert.exe
+D:\C#\HW\HW11_NumsConvert\HW11_NumsConvert\obj\Debug\HW11_NumsConvert.pdb
