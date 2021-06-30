@@ -1,0 +1,7 @@
+D:\C#\HW\HW12_DupNodup\HW12_DupNodup\bin\Debug\HW12_DupNodup.exe.config
+D:\C#\HW\HW12_DupNodup\HW12_DupNodup\bin\Debug\HW12_DupNodup.exe
+D:\C#\HW\HW12_DupNodup\HW12_DupNodup\bin\Debug\HW12_DupNodup.pdb
+D:\C#\HW\HW12_DupNodup\HW12_DupNodup\obj\Debug\HW12_DupNodup.csproj.AssemblyReference.cache
+D:\C#\HW\HW12_DupNodup\HW12_DupNodup\obj\Debug\HW12_DupNodup.csproj.CoreCompileInputs.cache
+D:\C#\HW\HW12_DupNodup\HW12_DupNodup\obj\Debug\HW12_DupNodup.exe
+D:\C#\HW\HW12_DupNodup\HW12_DupNodup\obj\Debug\HW12_DupNodup.pdb
