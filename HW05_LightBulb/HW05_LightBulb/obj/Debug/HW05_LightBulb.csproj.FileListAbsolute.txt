@@ -1,0 +1,7 @@
+D:\C#\HW\HW05_LightBulb\HW05_LightBulb\bin\Debug\HW05_LightBulb.exe.config
+D:\C#\HW\HW05_LightBulb\HW05_LightBulb\bin\Debug\HW05_LightBulb.exe
+D:\C#\HW\HW05_LightBulb\HW05_LightBulb\bin\Debug\HW05_LightBulb.pdb
+D:\C#\HW\HW05_LightBulb\HW05_LightBulb\obj\Debug\HW05_LightBulb.csproj.AssemblyReference.cache
+D:\C#\HW\HW05_LightBulb\HW05_LightBulb\obj\Debug\HW05_LightBulb.csproj.CoreCompileInputs.cache
+D:\C#\HW\HW05_LightBulb\HW05_LightBulb\obj\Debug\HW05_LightBulb.exe
+D:\C#\HW\HW05_LightBulb\HW05_LightBulb\obj\Debug\HW05_LightBulb.pdb
